@@ -1,1 +1,3 @@
 # asnew
+
+hello£¬world£¡jjw
